@@ -1,0 +1,21 @@
+﻿@page "/Cadastro"
+
+@inject NavigationManager _nav
+<PageTitle>Cadastro</PageTitle>
+
+<div class="pagina">
+
+
+    <div class="dados">
+        <img src="imagens/FJL 1.png" />
+        <form action="" method="get">
+            <input id="Nome" type="text" name="nameLogin" placeholder="Nome de usuário" /><br />
+            <input id="Nome" type="email" name="nameLogin" placeholder="E-Mail" /><br />
+            <input id="Senha" type="password" name="senhaLogin" placeholder="Senha" /><br />
+            <input id="Senha" type="password" name="senhaLogin" placeholder="Confirmar senha" />
+
+        </form>
+        <button @onclick="@(()=>_nav.NavigateTo("/"))">Cadastrar</button>
+    </div>
+
+</div>

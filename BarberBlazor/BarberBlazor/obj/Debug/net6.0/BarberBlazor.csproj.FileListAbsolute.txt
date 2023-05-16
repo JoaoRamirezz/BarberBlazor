@@ -64,4 +64,8 @@ C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor\obj\Debug\net6.0\r
 C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor\obj\Debug\net6.0\BarberBlazor.pdb
 C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor\obj\Debug\net6.0\BarberBlazor.genruntimeconfig.cache
 C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor\obj\Debug\net6.0\ref\BarberBlazor.dll
+<<<<<<< HEAD
 C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor\obj\Debug\net6.0\scopedcss\Pages\Home.razor.rz.scp.css
+=======
+C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor\obj\Debug\net6.0\scopedcss\Pages\Cadastro.razor.rz.scp.css
+>>>>>>> bd6dd9607027e08bfde763ed53c98e0c47ed6c43

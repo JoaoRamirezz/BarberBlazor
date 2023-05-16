@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "CiE4OPOSX++DDdnbTCUle8zRbKVrOrklh2co+oXg6bo=",
+=======
+  "Hash": "0ZLOww5TRq3tPB9EAv255jt5/yrz0u6cC4NqXovLG9k=",
+>>>>>>> bd6dd9607027e08bfde763ed53c98e0c47ed6c43
   "Source": "BarberBlazor",
   "BasePath": "_content/BarberBlazor",
   "Mode": "Default",
@@ -270,6 +274,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\imagens\\backgroundBarber.jpeg",
+      "SourceId": "BarberBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "BasePath": "_content/BarberBlazor",
+      "RelativePath": "imagens/backgroundBarber.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\backgroundBarber.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\imagens\\FJL 1.png",
+      "SourceId": "BarberBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "BasePath": "_content/BarberBlazor",
+      "RelativePath": "imagens/FJL 1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\FJL 1.png"
     }
   ]
 }

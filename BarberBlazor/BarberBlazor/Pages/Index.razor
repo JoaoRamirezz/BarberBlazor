@@ -1,16 +1,20 @@
 ﻿@page "/"
 
+@inject NavigationManager _nav
 <PageTitle>Index</PageTitle>
 
-<h1>Login!</h1>
+<div class="pagina">
 
 
-<div class="dados">
-    <form action="" method="get">
-        <input id="Nome" type="text" name="nameLogin" placeholder="E-mail ou nome de usuario: "/><br />
-        <input id="Senha" type="password" name="senhaLogin" placeholder="Senha:"/>
+    <div class="dados">
+        <img src="imagens/FJL 1.png" />
+        <form action="" method="get">
+            <input id="Nome" type="text" name="nameLogin" placeholder="E-mail ou nome de usuário "/><br />
+            <input id="Senha" type="password" name="senhaLogin" placeholder="Senha"/>
 
-    </form>
-    <button>Continuar</button>
-    <button>Cadastrar</button>
+        </form>
+        <button>Continuar</button>
+        <button @onclick="@(()=>_nav.NavigateTo("/Cadastro"))">Cadastrar</button>
+    </div>
+
 </div>

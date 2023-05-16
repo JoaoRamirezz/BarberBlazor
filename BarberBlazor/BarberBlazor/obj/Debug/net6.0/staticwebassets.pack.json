@@ -57,6 +57,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\imagens\\FJL 1.png",
+      "PackagePath": "staticwebassets\\imagens\\FJL 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\imagens\\backgroundBarber.jpeg",
+      "PackagePath": "staticwebassets\\imagens\\backgroundBarber.jpeg"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BarberBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
