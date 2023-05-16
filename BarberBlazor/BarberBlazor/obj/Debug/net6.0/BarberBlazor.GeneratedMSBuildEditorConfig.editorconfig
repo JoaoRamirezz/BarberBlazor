@@ -9,53 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BarberBlazor
 build_property.RootNamespace = BarberBlazor
-build_property.ProjectDir = C:\Users\Aluno\source\repos\BarberBlazor\BarberBlazor\
+build_property.ProjectDir = C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aluno\source\repos\BarberBlazor\BarberBlazor
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/App.razor]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Pages/Counter.razor]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Pages/FetchData.razor]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Shared/SurveyPrompt.razor]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/_Imports.razor]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Pages/Index.razor]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-xviqj9x4cd
+
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hmyznmz50m
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Shared/MainLayout.razor]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ip5kwxuny9
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Shared/NavMenu.razor]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cdpis7jt3n
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Pages/Error.cshtml]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Pages/_Host.cshtml]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/source/repos/BarberBlazor/BarberBlazor/Pages/_Layout.cshtml]
+[C:/Users/Aluno/Desktop/BarberBlazor/BarberBlazor/BarberBlazor/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
