@@ -13,7 +13,8 @@
             <input id="Senha" type="password" name="senhaLogin" placeholder="Senha"/>
 
         </form>
-        <button>Continuar</button>
+
+        <button @onclick="@(()=>_nav.NavigateTo("/Home"))">Continuar</button>
         <button @onclick="@(()=>_nav.NavigateTo("/Cadastro"))">Cadastrar</button>
     </div>
 

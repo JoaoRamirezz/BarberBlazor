@@ -1,3 +1,44 @@
+/* _content/BarberBlazor/Pages/Cadastro.razor.rz.scp.css */
+*[b-qabe9gcqej]{
+    padding: 0;
+    margin: 0;
+}
+
+button[b-qabe9gcqej] {
+    margin-top:2%;
+    background-color: #F1DABF;
+    color: black;
+    border:none;
+    padding:20px 60px 20px 60px;
+    font-size:larger;
+    border-radius: 12px;
+    transition: .4s;
+}
+
+button:hover[b-qabe9gcqej]{
+    transition: .4s;
+    filter: brightness(1.2);
+}
+
+input[b-qabe9gcqej] {
+    margin-top: 6%;
+    padding: 20px 60px 20px 60px;
+    border-radius: 10px;
+    border: none;
+}
+
+.dados[b-qabe9gcqej]{
+    padding-top: 5%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.pagina[b-qabe9gcqej]{
+    background-image: url('imagens/backgroundBarber.jpeg');
+    background-repeat: no-repeat;
+    height:100vh;
+}
 /* _content/BarberBlazor/Pages/Home.razor.rz.scp.css */
 body[b-xviqj9x4cd] {
     margin: 0 !important;
@@ -100,25 +141,25 @@ body[b-xviqj9x4cd] {
 }
 
 button[b-hmyznmz50m] {
-    margin-top:2%;
-    background-color: #020887;
-    color: white;
-    border:none;
-    padding:20px 60px 20px 60px;
-    font-size:larger;
-    border-radius: 3px;
+    margin-top: 2%;
+    background-color: #F1DABF;
+    color: black;
+    border: none;
+    padding: 20px 60px 20px 60px;
+    font-size: larger;
+    border-radius: 12px;
+    transition: .4s;
+}
+
+button:hover[b-hmyznmz50m]{
+    transition: .4s;
+    filter: brightness(1.2);
 }
 
 input[b-hmyznmz50m] {
-<<<<<<< HEAD
-    margin-top: 20px;
-    padding: 10px 100px 10px 100px;
-    border-radius: 5px;
-=======
     margin-top: 6%;
     padding: 20px 60px 20px 60px;
     border-radius: 10px;
->>>>>>> bd6dd9607027e08bfde763ed53c98e0c47ed6c43
     border: none;
 }
 
