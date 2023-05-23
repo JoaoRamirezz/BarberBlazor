@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EKP1n4l2nJ5wplk3QJyq4RfCczBHBLKqYeA/wkhLJOE=",
+  "Hash": "3WiJfu5tLtr036qsTp3Abag7apYzGqzJj2grTlS0Keo=",
   "Source": "BarberBlazor",
   "BasePath": "_content/BarberBlazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BarberBlazor\\wwwroot",
       "Source": "BarberBlazor",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BarberBlazor.styles.css",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BarberBlazor.styles.css",
       "SourceId": "BarberBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "BarberBlazor.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BarberBlazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BarberBlazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BarberBlazor.bundle.scp.css",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BarberBlazor.bundle.scp.css",
       "SourceId": "BarberBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "BarberBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BarberBlazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BarberBlazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\css\\site.css",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\favicon.ico",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\imagens\\backgroundBarber.jpeg",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\imagens\\backgroundBarber.jpeg",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "imagens/backgroundBarber.jpeg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\backgroundBarber.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\imagens\\FJL 1.png",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\imagens\\FJL 1.png",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "imagens/FJL 1.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\imagens\\FJL 1.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\calendar.png",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\calendar.png",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "resources/calendar.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\resources\\calendar.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\logout.png",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\logout.png",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "resources/logout.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\resources\\logout.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\plus.png",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\plus.png",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "resources/plus.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\resources\\plus.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\shave.png",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\shave.png",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "resources/shave.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\resources\\shave.png"
     },
     {
-      "Identity": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\user.png",
+      "Identity": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\resources\\user.png",
       "SourceId": "BarberBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\wwwroot\\",
       "BasePath": "_content/BarberBlazor",
       "RelativePath": "resources/user.png",
       "AssetKind": "All",

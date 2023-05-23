@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\BarberBlazor.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\BarberBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\BarberBlazor.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\BarberBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\BarberBlazor.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\BarberBlazor.csproj",
         "projectName": "BarberBlazor",
-        "projectPath": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\BarberBlazor.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\BarberBlazor.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Downloads\\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\\BarberBlazor\\BarberBlazor\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\BarberBlazor\\BarberBlazor\\BarberBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

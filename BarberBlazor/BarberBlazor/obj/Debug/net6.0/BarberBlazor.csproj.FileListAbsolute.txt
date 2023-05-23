@@ -100,3 +100,4 @@ C:\Users\Aluno\Downloads\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\B
 C:\Users\Aluno\Downloads\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\BarberBlazor\BarberBlazor\obj\Debug\net6.0\BarberBlazor.genruntimeconfig.cache
 C:\Users\Aluno\Downloads\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\BarberBlazor\BarberBlazor\obj\Debug\net6.0\ref\BarberBlazor.dll
 C:\Users\Aluno\Downloads\BarberBlazor-bd6dd9607027e08bfde763ed53c98e0c47ed6c43\BarberBlazor\BarberBlazor\obj\Debug\net6.0\scopedcss\Pages\Home.razor.rz.scp.css
+C:\Users\Aluno\Desktop\BarberBlazor\BarberBlazor\BarberBlazor\obj\Debug\net6.0\scopedcss\Pages\Home.razor.rz.scp.css
